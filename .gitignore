@@ -1,12 +1,6 @@
-.venv
-allure-results
-allure-report/
-.idea
-
-
-# .gitignore
 
 .venv
 allure-results
 allure-report/
 .idea
+pages/__pycache__/
